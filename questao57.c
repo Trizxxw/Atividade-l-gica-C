@@ -3,7 +3,7 @@
 int main() {
     int A[10], B[10], C[20], i, j = 0;
 
-    printf("--- Leitura do Vetor A ---\n");
+    printf("--- Leitura do vetor A ---\n");
     for (i = 0; i < 10; i++) {
         printf("Digite o elemento A[%d]: ", i);
         scanf("%d", &A[i]);
